@@ -1,6 +1,6 @@
 # Olá!! Meu nome é Calebe Figueira :)
 
-🎓 Estudante de Engenharia de Software
+🎓 Estudante de Engenharia de Software FIAP ON
 
 💻 Estudando PHP, Vue.JS
 
