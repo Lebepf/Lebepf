@@ -1,7 +1,9 @@
 # Olá!! Meu nome é Calebe Figueira :)
 
 🎓 Estudante de Engenharia de Software
+
 💻 Estudando PHP, Vue.JS
+
 📫 Contate-me: calebepfigueira@gmail.com
 
 <div>
